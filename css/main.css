@@ -1,24 +1,21 @@
-p{
+body{
   font-size: 16pt;
   text-align: justify;
   font-size: Arial;
 }
 img{
-  width: 500px;
+  width: 600px;
 }
 .block{
   text-align: center;
 }
-.text-block{
+.B{
   width: 1000px;
   padding: 10px;
   border-radius: 10px;
   margin: auto;
-  background: #bbb6c2;
+  background: #ffb978;
 }
 h1{
   text-align: center;
-}
-hr{
-  width: 1000px;  
 }
