@@ -1,0 +1,24 @@
+p{
+  font-size: 16pt;
+  text-align: justify;
+  font-size: Arial;
+}
+img{
+  width: 500px;
+}
+.block{
+  text-align: center;
+}
+.text-block{
+  width: 1000px;
+  padding: 10px;
+  border-radius: 10px;
+  margin: auto;
+  background: #bbb6c2;
+}
+h1{
+  text-align: center;
+}
+hr{
+  width: 1000px;  
+}
